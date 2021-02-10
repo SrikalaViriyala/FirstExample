@@ -8,6 +8,7 @@ namespace FirstExample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World new line!");
+            Console.WriteLine("Sync Code");
         }
     }
 }
